@@ -1,3 +1,6 @@
 Water
 Chicken stock
 Noodles
+
+Instructions:
+Add chicken stock and noodles to water then heat. 
